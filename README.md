@@ -7,10 +7,14 @@ This repository consists of assignments related to my fifth semester of Bachelor
 **Institution:** Bahria University Islamabad Campus  
 **Program:** Bachelor's in Artificial Intelligence  
 **Semester:** Spring 2024
-**Professors:** 
-- 👩‍🏫 Mam Ume Samabia Tehsin
-- 👩‍🏫 Mam Sadia Nazim
 
+**Professors:** 
+
+- 👩‍🏫 Mam Samabia Tehsin
+- 👩‍🏫 Mam Sadia Nazim
+- 👨‍🏫 Prof Dr Asghar Ali Shah
+- 👨‍🏫 Sir Umair Sajjad
+  
 ## 📁 Contents
 
 - 📄 Assignment Reports
